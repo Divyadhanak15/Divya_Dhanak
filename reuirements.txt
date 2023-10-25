@@ -1,0 +1,17 @@
+orange peel:-ff9f1c-ffbf69-ffffff-cbf3f0-2ec4b6
+blue:-371cff-522e00-666666-2bb6ac-10423d
+red:-fe0a0a-f58b00-1f1f1f-65b52b-032522
+yellow:-ffff00-ee204e-8b004b-adff2f-ffdead
+
+https://coolors.co/ffff00-ee204e-8b004b-adff2f-ffdead
+https://coolors.co/
+
+fonts
+1.
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+2.
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
